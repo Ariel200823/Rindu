@@ -1,2 +1,0 @@
-# Rindu
-ok
